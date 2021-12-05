@@ -17,8 +17,8 @@
         - band: the name of the band
         - album: the name of the album
         - track: the path to the song in the data folder which contains all the wav files
-3. __`homework4.ipynp`__:
-   > The main jpyter notebook which contains the answers to the questions of the homework number 4.
+3. __`main.ipynp`__:
+   > The main jupyter notebook which contains the answers to the questions of the homework number 4.
 
 4. __`song_buckets.pkl`__:
 
